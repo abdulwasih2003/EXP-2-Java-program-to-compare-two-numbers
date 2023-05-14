@@ -5,15 +5,15 @@ To write a java program to compare two numbers.
 
 ## ALGORITHM: 
 ### Step 1:
-Import the necessary packages
+Import the necessary packages.
 ### Step 2: 
 Get the two values from the user.
 ### Step 3: 
 Compare the two numbers using if else statements conditions.
 ### Step 4:  
-Print the result
+Print the result.
 ### Step 5: 
-End the program
+End the program.
 ## PROGRAM:
 ~~~
 Name   : H.Syed Abdul Wasih
@@ -43,10 +43,10 @@ public class Main {
 ~~~
 
 ## OUTPUT:
-![output](img.png)
+![out](https://github.com/abdulwasih2003/EXP-2-Java-program-to-compare-two-numbers/assets/91781810/960e88fa-c829-4855-b285-80a0b22328b4)
 
 ## RESULT:
-Thus the java program to print the arithmetic operations is successful.
+Thus the java program to compare two numbers is successful.
 
 
 
